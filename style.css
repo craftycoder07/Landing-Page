@@ -1,0 +1,31 @@
+.header{
+    background-color: #1F2937;
+}
+
+.top-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-logo-text{
+    font-weight: bold;
+    font-size: 24px;
+    color: #F9FAF8;
+    font: Roboto;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0px;
+}
+
+a{
+    font-size: 18px;
+    color: #E5E7EB;
+    font: Roboto;
+    text-decoration: none;
+}
